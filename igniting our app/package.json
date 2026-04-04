@@ -5,7 +5,6 @@
   "license": "ISC",
   "author": "swarup",
   "type": "commonjs",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
