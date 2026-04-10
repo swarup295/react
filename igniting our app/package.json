@@ -6,6 +6,8 @@
   "author": "swarup",
   "type": "commonjs",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "devDependencies": {
@@ -14,5 +16,10 @@
   "dependencies": {
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
-  }
+  },
+  "browserslist":[
+    
+    "cover 99.5%"
+  ]
+  
 }
